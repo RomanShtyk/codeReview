@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HiberLast:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HiberLast_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HiberLast/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HiberLast" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
